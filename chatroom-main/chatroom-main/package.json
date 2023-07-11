@@ -1,0 +1,20 @@
+{
+  "name": "chatroom",
+  "version": "1.0.0",
+  "description": "A messaging application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/utkarsh5026/chatroom.git"
+  },
+  "keywords": [],
+  "author": "Utkarsh Priyadarshi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/utkarsh5026/chatroom/issues"
+  },
+  "homepage": "https://github.com/utkarsh5026/chatroom#readme"
+}
